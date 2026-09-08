@@ -1,0 +1,6 @@
+sudo useradd user1- создать нового позлзователя 
+sudo useradd user2
+touch - создание файла
+ сhown - Изменить владельца файла
+ сhgrp - Изменить группу файла 
+userdel user1
