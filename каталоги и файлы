@@ -2,3 +2,12 @@ mkdir dir - созданипе каталога с именем dir
 mkdir -m 750 dir - созданипе каталога с кодом доступа 750
 rmdir - удаление каталогов 
 ed - встроеный текстовый редактор
+
+
+
+mkdir -p dir1/dir2 
+touch /dir1/dir2 file_dir1.txt
+echo "linux" > file_dir1.txt
+vi file_dir1.txt #нажал i, ввел текст, нажал ZZ
+cat > file_dir1.txt #ввел текст, нажал ctrl D
+cp file_dir1.txt file2
